@@ -1,0 +1,25 @@
+MUHAMMAD TAHIR — GITHUB PORTFOLIO
+
+1. Extract the ZIP.
+2. Open the tahir-leadership-portfolio folder.
+3. Double-click index.html to preview your website.
+4. Open your GitHub repository.
+5. Upload everything INSIDE this folder. Do not upload the ZIP itself.
+6. Confirm index.html is at the top level of your repository.
+7. Go to Settings > Pages.
+8. Select Deploy from a branch > main > /(root) > Save.
+9. Wait for deployment, then use the Visit site button.
+
+For Diplomat-Properties / tahir-leadership-portfolio, the expected URL is:
+https://diplomat-properties.github.io/tahir-leadership-portfolio/
+
+The new version becomes live only after you upload and enable GitHub Pages.
+
+The website needs index.html, style.css, script.js and the full assets folder.
+Keep the folder names and filenames unchanged.
+
+README.md contains full publishing and editing instructions.
+CONTENT_NOTES.md records the CV details and your requested corrections.
+
+The included PDF executive profile contains no qualifications.
+The original CV is not included in the public website files.
